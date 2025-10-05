@@ -78,3 +78,4 @@ Data_Analyst_Jobs_Analysis.ipynb: The Jupyter Notebook containing all data clean
 Executive_Report.pdf: The final executive summary report.
 
 The three key dashboard visualizations (Top 10 Average Salary by Sector, Top 10 Job Postings Distribution by Sector, and Average Salary by Top 10 Job Titles) are included for quick reference.
+![Image](https://github.com/ramyaa0805/Data-Analyst-Jobs-Analysis/blob/7cf8a65b5ec2469e38868c86050fdee0f1dda5f1/WhatsApp%20Image%202025-10-05%20at%2012.43.36_c553965c.jpg)
